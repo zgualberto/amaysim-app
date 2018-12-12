@@ -1,0 +1,38 @@
+{
+    "items":{
+        "ult_small":{
+            "product_code":"ult_small",
+            "price":"24.90",
+            "discounted_price":"0",
+            "product_name":"Unlimited 1GB",
+            "promo_count":"3"
+        },
+        "ult_medium":{
+            "product_code":"ult_medium",
+            "price":"29.90",
+            "discounted_price":"0",
+            "product_name":"Unlimited 2GB",
+            "promo_count":"0"
+        },
+        "ult_large":{
+            "product_code":"ult_large",
+            "price":"44.90",
+            "discounted_price":"39.90",
+            "product_name":"Unlimited 5GB",
+            "promo_count":"4"
+        },
+        "onegb":{
+            "product_code":"1gb",
+            "price":"9.90",
+            "discounted_price":"39.90",
+            "product_name":"1 GB Data-pack",
+            "promo_count":"0"
+        }
+    },
+    "promos":{
+        "iloveamaysim":{
+            "promo_code":"I<3AMAYSIM",
+            "discount":"0.1"
+        }
+    }
+}
